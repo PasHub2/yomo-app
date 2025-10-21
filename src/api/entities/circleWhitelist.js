@@ -1,4 +1,4 @@
-import { supabase } from '../../lib/supabaseClient.js';
+import { supabase } from '../supabase.ts';
 
 /**
  * Add a user to a circle's whitelist

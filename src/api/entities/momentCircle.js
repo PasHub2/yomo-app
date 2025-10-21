@@ -1,4 +1,4 @@
-import { supabase } from '../../lib/supabaseClient.js';
+import { supabase } from '../supabase.ts';
 
 /**
  * Create a moment-circle link (add moment to circle)

@@ -1,4 +1,4 @@
-import { supabase } from '../../lib/supabaseClient.js';
+import { supabase } from '../supabase.ts';
 
 /**
  * Toggle like on a moment (like if not liked, unlike if already liked)
